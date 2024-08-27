@@ -18,7 +18,7 @@ DEFAULT_MODELS = [
     "microsoft/phi-2",
     "google/gemma-2-9b-it",
     "google/gemma-2-2b-it",
-    "google/gemma-2b"
+    "google/gemma-2b",
     "google/gemma-1.1-7b-it",
     "meta-llama/Meta-Llama-3.1-8B-Instruct",
     "meta-llama/Meta-Llama-3.1-70B-Instruct",
