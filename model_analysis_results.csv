@@ -1,0 +1,16 @@
+Base Model,Original Count,Original Downloads,ONNX Count,ONNX Downloads,GGUF Count,GGUF Downloads
+microsoft/phi-3.5-mini,93,97489,4,518,76,29275
+microsoft/Phi-3.5-vision-instruct,7,24148,0,0,1,3810
+microsoft/Phi-3-mini-4k-instruct,569,3001177,11,2049,131,110286
+microsoft/Phi-3-mini-128k-instruct,202,272186,8,487,109,29264
+microsoft/phi-2,1826,250504,2,13,143,73835
+google/gemma-2-9b-it,230,2119890,0,0,144,214826
+google/gemma-2-2b-it,239,296890,0,0,93,226551
+google/gemma-2bgoogle/gemma-1.1-7b-it,84,31661,1,9,34,18405
+meta-llama/Meta-Llama-3.1-8B-Instruct,290,3369213,0,0,176,890130
+meta-llama/Meta-Llama-3.1-70B-Instruct,90,911925,0,0,18,180810
+meta-llama/Meta-Llama-3-8B-Instruct,910,2262947,3,176,212,187722
+meta-llama/Llama-2-7b-hf,1368,1213184,0,0,26,2755
+mistralai/Mistral-7B-Instruct-v0.3,257,863029,6,217,81,442475
+mistralai/Codestral-22B-v0.1,47,59738,0,0,35,154811
+Qwen/Qwen2-7B-Instruct,176,1082270,0,0,99,83381
